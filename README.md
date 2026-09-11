@@ -6,4 +6,4 @@ The Skill selects one primary mode, preserves claim/source boundaries, translate
 
 ## Contents
 
-- `SKILL.md` — the complete Skill prompt (v0.4 candidate).
+- `SKILL.md` — the complete Skill prompt (v0.6.2 candidate).
